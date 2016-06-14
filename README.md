@@ -12,7 +12,7 @@ $ brew install carthage
 To integrate the Loop SDK framework into your Xcode project using Carthage, specify it and it's dependency on Alamofire in your `Cartfile`:
 
 ```ogdl
-github "Alamofire/Alamofire" ~> 3.4
+github "Alamofire/Alamofire" ~> 3.0
 github "LpDevBuilder/Loop-iOS-SDK-Framework" ~>2.0
 ```
 
